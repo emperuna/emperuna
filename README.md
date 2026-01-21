@@ -82,22 +82,40 @@
 
 ### Projects and Experience
 
-**SBCC Management System** — Team Lead, Full-Stack Developer  
-A church management platform built for Santa Cruz Bible Christian Church as a Software Engineering I capstone project. Led a team of 9 members. The system handles membership database, attendance tracking, ministry rotation scheduling, document management, and inventory tracking.
+**SBCC Management System** — _Team Lead & DevOps Engineer | 9-Member Team_  
+A comprehensive church management platform. As Team Lead, I architected the infrastructure to support concurrent development for 9 engineers, solving environment consistency issues.
 
-- Designed and implemented CI/CD pipelines using GitHub Actions
-- Containerized the application with Docker for consistent deployments
-- Deployed backend services on Railway and Render
-- Managed frontend deployment and infrastructure on Cloudflare
+**System Architecture & DevOps:**
+
+- **CI/CD:** Automated testing and build pipelines via **GitHub Actions**, preventing broken builds on the main branch.
+- **Containerization:** Standardized local development environments using **Docker**, eliminating configuration drift across the team.
+- **Deployment:** Designed a multi-cloud strategy using **Railway/Render** (Backend) and **Cloudflare** (Frontend) for minimal downtime.
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
 
 ---
 
-**Trabahanap** — Full-Stack Developer  
-A smart job-finding application developed as a Programming Languages course project. Built with a team of 4 members, delivering an MVP focused on intelligent job matching.
+**Trabahanap** — _Full-Stack & DevOps Engineer | 4-Member Team_  
+A smart job-finding application MVP. Focused on creating a reliable delivery pipeline for rapid iteration.
 
-- Implemented CI/CD pipelines using GitHub Actions
-- Set up Docker containerization for development and deployment
-- Deployed backend on Railway and frontend on Cloudflare
+**System Architecture & DevOps:**
+
+- **CI/CD:** Implemented automated build pipelines using **GitHub Actions** to accelerate feedback loops.
+- **Containerization:** Utilized **Docker** for consistent application packaging across development and production.
+- **Deployment:** Deployed backend services on **Render** and frontend on **Cloudflare** for cost-effective scaling.
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
 
 ---
 
