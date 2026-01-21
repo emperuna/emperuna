@@ -91,13 +91,7 @@ A comprehensive church management platform. As Team Lead, I architected the infr
 - **Containerization:** Standardized local development environments using **Docker**, eliminating configuration drift across the team.
 - **Deployment:** Designed a multi-cloud strategy using **Railway/Render** (Backend) and **Cloudflare** (Frontend) for minimal downtime.
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-</p>
+**Stack:** `Docker` `GitHub Actions` `Railway` `Render` `Cloudflare`
 
 ---
 
@@ -110,12 +104,7 @@ A smart job-finding application MVP. Focused on creating a reliable delivery pip
 - **Containerization:** Utilized **Docker** for consistent application packaging across development and production.
 - **Deployment:** Deployed backend services on **Render** and frontend on **Cloudflare** for cost-effective scaling.
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-</p>
+**Stack:** `Docker` `GitHub Actions` `Render` `Cloudflare`
 
 ---
 
