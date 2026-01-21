@@ -117,3 +117,9 @@ A smart job-finding application developed as a Programming Languages course proj
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emperuna&theme=tokyo-night&bg_color=0a1628&hide_border=true&area=true&order=1" alt="Activity Graph" width="100%"/>
+</p>
