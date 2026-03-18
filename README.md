@@ -127,7 +127,7 @@ A smart job-finding application MVP. Focused on creating a reliable delivery pip
   <a href="https://www.instagram.com/_jemmmh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.jeremygarin.works/">
+  <a href="https://jeremygarin.me/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
