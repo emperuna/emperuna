@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="auto">
+  <style>
+    :root {
+      --bg: #0b0f19;
+      --grid: rgba(99, 102, 241, 0.05);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #3b82f6;
+      --accent-glow: rgba(59, 130, 246, 0.15);
+      --border: #1e293b;
+      --status-bg: rgba(16, 185, 129, 0.1);
+      --status-text: #10b981;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #ffffff;
+        --grid: rgba(59, 130, 246, 0.04);
+        --text-main: #0f172a;
+        --text-muted: #64748b;
+        --accent: #2563eb;
+        --accent-glow: rgba(37, 99, 235, 0.1);
+        --border: #e2e8f0;
+        --status-bg: rgba(5, 150, 105, 0.1);
+        --status-text: #059669;
+      }
+    }
+    .background { fill: var(--bg); transition: fill 0.3s ease; }
+    .grid { stroke: var(--grid); stroke-width: 1; }
+    .text-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 800; fill: var(--text-main); letter-spacing: -0.5px; }
+    .text-subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; fill: var(--accent); letter-spacing: 0.5px; }
+    .text-body { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 12px; fill: var(--text-muted); }
+    .border { stroke: var(--border); stroke-width: 1; fill: none; }
+    .accent-line { stroke: var(--accent); stroke-width: 3; stroke-linecap: round; }
+    .status-box { fill: var(--status-bg); rx: 4; }
+    .status-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; font-weight: bold; fill: var(--status-text); }
+    .status-dot { fill: var(--status-text); }
+  </style>
+  <rect width="100%" height="100%" class="background"/>
+
+  <!-- Grid Lines -->
+  <g class="grid">
+    <path d="M 0,40 L 800,40 M 0,80 L 800,80 M 0,120 L 800,120 M 0,160 L 800,160 M 0,200 L 800,200" />
+    <path d="M 80,0 L 80,240 M 160,0 L 160,240 M 240,0 L 240,240 M 320,0 L 320,240 M 400,0 L 400,240 M 480,0 L 480,240 M 560,0 L 560,240 M 640,0 L 640,240 M 720,0 L 720,240" />
+  </g>
+
+  <!-- Outline Border and Corners -->
+  <rect x="20" y="20" width="760" height="200" class="border" rx="6"/>
+  <line x1="20" y1="20" x2="100" y2="20" class="accent-line"/>
+  <line x1="20" y1="20" x2="20" y2="60" class="accent-line"/>
+
+  <!-- Content -->
+  <!-- Name -->
+  <text x="50" y="85" class="text-title">JEREMY GARIN</text>
+
+  <!-- Subtitle -->
+  <text x="50" y="115" class="text-subtitle">Full-Stack &amp; DevOps Engineer</text>
+
+  <!-- Details -->
+  <text x="50" y="155" class="text-body">&gt; senior computer science student</text>
+  <text x="50" y="175" class="text-body">&gt; philippines [utc+8]</text>
+  <text x="50" y="195" class="text-body">&gt; automation, full-stack &amp; ai systems</text>
+
+  <!-- Status Card -->
+  <g transform="translate(560, 50)">
+    <rect x="0" y="0" width="190" height="34" class="status-box"/>
+    <circle cx="20" cy="17" r="4" class="status-dot"/>
+    <text x="35" y="21" class="status-text">SYSTEM: OPERATIONAL</text>
+  </g>
+
+  <!-- Systems Status Information -->
+  <g transform="translate(560, 105)">
+    <text x="0" y="15" class="text-body">ENV: PRODUCTION</text>
+    <text x="0" y="35" class="text-body">LOC: LAGUNA, PH</text>
+    <text x="0" y="55" class="text-body">SHELL: ZSH / BASH</text>
+    <text x="0" y="75" class="text-body">DEPLOYMENT: ACTIVE</text>
+  </g>
+</svg>
