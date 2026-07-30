@@ -8,10 +8,12 @@
 
 ## About Me
 
-I am a senior Computer Science student from the Philippines specializing in DevOps and Full-Stack Development, with a focus on AI Engineering. I design software deployments, build developer environments, and integrate pre-trained models into systems to solve problems and automate repetitive workflows.
+I am a senior Computer Science student from the Philippines specializing in **DevOps and Deployment Infrastructure**, backed by a strong foundation in **Full-Stack Development**. I focus on system-level thinking, architectural decision-making, and building resilient systems that stay reliable and operational post-deployment.
 
-- **Current focus:** Learning Kubernetes, Terraform, and deployment patterns for AI systems.
-- **Goal:** Build deployment pipelines that are reliable, secure, and easy to reproduce.
+Recently, I have been expanding into **AI Engineering**—designing RAG pipelines, integrating pre-trained models into production web applications, and building deployment patterns optimized for AI-driven workflows.
+
+- **Engineering Core:** System architecture, pipeline automation, and post-deployment stability.
+- **Current Focus:** Cloud-native AI deployments, RAG pipelines, Kubernetes, and Terraform.
 
 ---
 
