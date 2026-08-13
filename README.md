@@ -80,43 +80,6 @@ Recently, I have been expanding into **AI Engineering**—designing RAG pipeline
   </tr>
 </table>
 
----
-
-## Projects and Experience
-
-### Summary
-
-| Project | Role | Infrastructure Stack | Key Impact |
-| :--- | :--- | :--- | :--- |
-| **SBCC Management System** | Team Lead & DevOps | `Docker` `GitHub Actions` `Railway` `Render` `Cloudflare` | Set up consistent Docker environments for 9 developers, preventing setup issues. |
-| **Trabahanap** | Full-Stack & DevOps | `Docker` `GitHub Actions` `Render` `Cloudflare` | Automated build and test pipelines to speed up feedback loops. |
-
----
-
-### Project Details
-
-#### **SBCC Management System**
-*Team Lead & DevOps Engineer | 9-Member Team*
-
-A church management platform. As the team lead and infrastructure architect, I organized the setup to help 9 engineers collaborate smoothly.
-
-- **CI/CD pipelines:** Created build check workflows using GitHub Actions to catch errors before code is merged.
-- **Development environments:** Standardized local workflows with Docker to ensure the application runs the same way for every developer.
-- **Cloud deployment:** Deployed the backend on Railway and Render, and served the frontend via Cloudflare for reliable scaling and speed.
-
----
-
-#### **Trabahanap**
-*Full-Stack & DevOps Engineer | 4-Member Team*
-
-A job-matching web application MVP. I focused on building a secure, stable, and automated deployment pipeline.
-
-- **Continuous integration:** Set up automatic code syntax and test builds using GitHub Actions.
-- **Container packaging:** Built and optimized Docker configurations to run the application consistently from development to production.
-- **Hosting strategy:** Configured Render for backend services and Cloudflare for frontend caching to keep hosting stable and cost-efficient.
-
----
-
 ## GitHub Activity
 
 <p align="center">
