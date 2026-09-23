@@ -80,16 +80,6 @@ Recently, I have been expanding into **AI Engineering**—designing RAG pipeline
   </tr>
 </table>
 
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=emperuna&amp;bg_color=0b0f19&amp;color=94a3b8&amp;line=3b82f6&amp;point=60a5fa&amp;area=true&amp;hide_border=true&amp;area_color=1e293b" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=emperuna&amp;bg_color=ffffff&amp;color=475569&amp;line=2563eb&amp;point=3b82f6&amp;area=true&amp;hide_border=true&amp;area_color=f1f5f9" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emperuna&amp;bg_color=0b0f19&amp;color=94a3b8&amp;line=3b82f6&amp;point=60a5fa&amp;area=true&amp;hide_border=true&amp;area_color=1e293b" alt="Activity Graph" width="100%"/>
-  </picture>
-</p>
-
 ---
 
 ## Connect
@@ -101,7 +91,7 @@ If you want to collaborate on systems engineering, automate deployments, or disc
   &nbsp;
   <a href="https://twitter.com/emperuna"><img src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X"/></a>
   &nbsp;
-  <a href="https://www.instagram.com/_jemmmh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/jg.app"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
   &nbsp;
   <a href="https://jeremygarin.me/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Portfolio"/></a>
 </p>
